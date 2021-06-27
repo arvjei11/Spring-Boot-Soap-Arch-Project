@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<GetCourseDetailsResponse xmlns = "http://arvind.com/courses" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arvind.com/courses course-details.xsd">
-<CourseDetails>
-<id>124</id>
-<name>Spring Boot Course Project</name>
-<desc>A tutorial on how to use Spring Boot using Eclipse and Java</desc>
-</CourseDetails>
-</GetCourseDetailsResponse>
