@@ -1,0 +1,16 @@
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\CourseDetails.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\soap\webservices\soapcoursemanagement\soap\CourseDetailsEndpoint.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\GetCourseDetailsRequest.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\soap\webservices\soapcoursemanagement\soap\WebServiceConfig.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\GetAllCourseDetailsRequest.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\package-info.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\soap\webservices\soapcoursemanagement\soap\service\CourseDetailsService.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\DeleteCourseDetailsRequest.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\ObjectFactory.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\GetCourseDetailsResponse.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\GetAllCourseDetailsResponse.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\DeleteCourseDetailsResponse.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\soap\webservices\soapcoursemanagement\soap\exception\CourseNotFoundException.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\soap\webservices\soapcoursemanagement\soap\bean\Course.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\soap\webservices\soapcoursemanagement\SoapCourseManagementApplication.java
+E:\IDEA Soap Project\src\main\java\com\in28minutes\courses\Status.java
